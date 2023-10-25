@@ -1,1 +1,1 @@
-This is the 2nd version of my calculator. This advanced version, called "my_calculator_2" allows you to calculate the square of a number, the cube of a number, the fourth power of a number, the inverse of a number, and the sine of a number
+
